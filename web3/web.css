@@ -1,0 +1,338 @@
+.box{
+   
+  margin-left: 120px;
+    width: 1250px;
+    height: 1880px;
+    
+}
+.div2{
+    display: grid;
+    grid-template-columns: 382px 382px 382px;
+    grid-template-rows: 382px 382px 382px;
+    gap: 50px;
+}
+.c{
+    width: 382px;
+    height: 382px;
+}
+.c1{
+    width: 375px;
+    height: 502px;
+}
+.div3{
+    margin-top: 60px;
+    gap: 90px;
+    display: grid;
+    grid-template-columns: 375px 480px;
+}
+.d32{
+    display: grid;
+    
+    grid-template-rows: 65px 65px 25px;
+}
+
+.d321{
+    margin-top: 60px;
+    background-color: aqua;
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.d322{
+    margin-top: 60px;
+    font-size: 23px;
+    color: rgb(103, 101, 101);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.d323{
+    margin-top: 60px;
+}
+button{
+    font-size: 17px;
+    width: 140px;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border: none;
+}
+button:hover{
+    background-color: rgb(32, 31, 31);
+    cursor: pointer;
+}
+.d42:hover{
+    cursor: pointer;
+}
+.d43:hover{
+    cursor: pointer;
+}
+.d44:hover{
+    cursor: pointer;
+}
+.d45:hover{
+    cursor: pointer;
+}
+.div4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 470px;
+    background-color: black;
+    color: white;
+}
+.d41{
+    padding-top: 30px;
+    font-size: 22px;
+    margin-left: 700px;
+}
+.d42{
+    padding-top: 30px;
+    font-size: 20px;
+    margin-left: 45%;
+}
+.d43{
+    color: #ffffffbf;
+    padding-top: 30px;
+    font-size: 20px;
+    margin-left: 45%;
+}
+.d44{
+    color: #ffffffbf;
+    padding-top: 30px;
+    font-size: 20px;
+    margin-left: 630px;
+}
+.d45{
+    color: #ffffffbf;
+    padding-top: 30px;
+    font-size: 20px;
+    margin-left: 730px;
+    margin-bottom: 70px;
+}
+
+.k1{
+    font-size: 1px;
+}
+.d47{
+    color: #ffffffbf;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    padding-left: 90px;
+    margin-top: 60px;
+    font-size: 14px;
+    display: grid;
+    grid-template-columns:295px 16px 83px 17px 83px 17px 98px 17px 94px 17px 122px  ;
+}
+.d472{
+    border: 2px solid rgb(0, 0, 0);
+    
+   
+}
+.d47{
+    border: 1px solid white;
+}
+.k2{
+    width: 100%;
+    height: 40px;
+    font-size: 12px;
+}
+.d812{
+   
+    color: white;
+    padding-left: 5px;
+
+    
+}
+.d811{
+
+   
+    color: white;
+    margin-left: 60px;
+}
+.d81{
+    padding-left: 580px;
+    
+    display: grid;
+    grid-template-columns: 270px 20px;
+}
+.d82{
+    margin-bottom: 40px;
+    padding-left: 140px;
+    align-content: center;
+    height: 90px;
+    background-color: black;
+    color: white;
+    display: grid;
+    grid-template-columns: 135px 81px 95px 102px 65px 650px 50px 50px;
+    border: 0.001px solid rgb(135, 133, 133);
+}
+
+.d821{
+    align-content: center;
+   font-weight: bold;
+    font-size: 26px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    border: 2px solid rgb(0, 0, 0);
+}
+.d822{
+    align-content: center;
+    padding-left: 26px;
+    border: 2px solid rgb(0, 0, 0);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.d823{
+    align-content: center;
+    padding-left: 12px;
+    border: 2px solid rgb(0, 0, 0);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+.d824{
+    align-content: center;
+    padding-left: 12px;
+    border: 2px solid rgb(0, 0, 0);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.d825{
+    align-content: center;
+    padding-left: 11px;
+    border: 2px solid rgb(0, 0, 0);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.d826{
+
+    align-content: center;
+    padding-left: 11px;
+    border: 2px solid rgb(0, 0, 0);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+.d827{
+    
+
+    align-content: center;
+   
+    border: 2px solid rgb(0, 0, 0);
+  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.d828{
+    
+
+    align-content: center;
+   
+    border: 2px solid rgb(0, 0, 0);
+  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
+.l1{
+  font-size: 20px;
+   padding-left: 10px;
+}
+
+.l2{
+    padding-left: 10px; 
+}
+
+.m1{
+    text-decoration: underline;
+    letter-spacing: 1px;
+    padding-bottom: 5px;
+}
+
+.d821{
+    font-size: 27px;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.d821:hover{
+    cursor: pointer;
+
+}
+
+.d822:hover{
+    cursor: pointer;
+
+}
+.d827:hover{
+    cursor: pointer;
+
+}
+.d828:hover{
+    cursor: pointer;
+
+}
+.d823:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+.d824:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+.d825:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+
+.l1{
+    
+    font-size: large;
+}
+
+header{
+  
+    width: 100%;
+    position: fixed;
+  
+}
+
+
+.box{
+    padding-top: 160px;
+}  
+
+.d41:hover{
+    text-decoration: underline;
+    cursor: pointer;}
+.d42:hover{
+        text-decoration: underline;
+        cursor: pointer;}
+
+        .d43:hover{
+            text-decoration: underline;
+            cursor: pointer;}
+            .d44:hover{
+                text-decoration: underline;
+                cursor: pointer;}
+                .d45:hover{
+                    text-decoration: underline;
+                    cursor: pointer;}
+    .d21:hover{
+        text-decoration: underline;
+        cursor: pointer;}
+        .d22:hover{
+            text-decoration: underline;
+            cursor: pointer;}
+            .d23:hover{
+                text-decoration: underline;
+                cursor: pointer;}
+                .d24:hover{
+                    
+                    cursor: pointer;}
+
+
+                    .d25:hover{
+                    
+                        cursor: pointer;}
+                        .d26:hover{
+                    
+                            cursor: pointer;}
+                            .d27:hover{
+                    
+                                cursor: pointer;}
+                                .d28:hover{
+                    
+                                    cursor: pointer;}
+                                    .d29:hover{
+                    
+                                        cursor: pointer;}
